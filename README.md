@@ -1,6 +1,9 @@
-(( Computer Engineering | Programmer | Web.Design ))
+Hi there 👋
+<p> (( Computer Engineering | Programmer | Web.Design )) </p>
 <hr />
+<p><b>Skills and Experience</b> <br /></p>
 •	HTML&CSS <br />
+• PHP <br />
 •	Javascript <br />
 •	React.js (hooks) <br />
 •	Redux <br />
@@ -10,11 +13,11 @@
 •	Git <br />
 
 <hr />
-- 👋 Hi, I'm @ALI736-WDS
-- 👀 I am interested in programming...
-- 🌱 I am learning...
-- 💞️ I am looking for cooperation in...
-- 📫 How to contact me...
+- 👋 Hi, I'm @ALI736-WDS <br />
+- 👀 I am interested in programming... <br />
+- 🌱 I am learning... <br />
+- 💞️ I am looking for cooperation in... <br />
+- 📫 How to contact me... <br />
 
 <!---
 ALI736-WDS/ALI736-WDS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
