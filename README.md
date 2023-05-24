@@ -1,14 +1,21 @@
 (( Computer Engineering | Programmer | Web.Design ))
-HTML&CSS
-Javascript
-React.js(hooks)
-Redux
-REST api
-MaterialUI
-Bootstrap
-Git
-Camunda
-BPMN2
+
+•	HTML&CSS
+
+•	Javascript
+
+•	React.js (hooks)
+
+•	Redux
+
+•	REST api
+
+•	MaterialUI
+
+•	Bootstrap
+
+•	Git
+
 
 - 👋 Hi, I'm @ALI736-WDS
 - 👀 I am interested in programming...
