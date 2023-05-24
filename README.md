@@ -1,22 +1,15 @@
 (( Computer Engineering | Programmer | Web.Design ))
-
-•	HTML&CSS
-
-•	Javascript
-
-•	React.js (hooks)
-
-•	Redux
 <hr />
-•	REST api
+•	HTML&CSS <br />
+•	Javascript <br />
+•	React.js (hooks) <br />
+•	Redux <br />
+•	REST api <br />
+•	MaterialUI <br />
+•	Bootstrap <br />
+•	Git <br />
 
-•	MaterialUI
-
-•	Bootstrap
-
-•	Git
-
-
+<hr />
 - 👋 Hi, I'm @ALI736-WDS
 - 👀 I am interested in programming...
 - 🌱 I am learning...
