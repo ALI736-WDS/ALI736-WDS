@@ -7,7 +7,7 @@
 •	React.js (hooks)
 
 •	Redux
-
+<hr />
 •	REST api
 
 •	MaterialUI
