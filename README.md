@@ -20,9 +20,17 @@ Hi there 👋
 - 👀 I am interested in programming... <br />
 - 🌱 I am learning... <br />
 - 💞️ I am looking for cooperation in... <br />
-- 📫 How to contact me... <br />
+- 📫 How to contact me... <br /><br />
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ALI736-WDS)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_ALI736_WDS)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Web.Designer.C.E736)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/Web_Designer_C_E736)
+<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ALI736_WDS-398b4822a/) -->
+<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17343167/ALI736_WDS)  -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALI736-WDS)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ALI736-WDS&show_icons=true&count_private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/ALI736-WDS) 
 
 <!---
 ALI736-WDS/ALI736-WDS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
