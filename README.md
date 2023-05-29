@@ -10,6 +10,9 @@ Hi there 👋
 •	REST api <br />
 •	MaterialUI <br />
 •	Bootstrap <br />
+•	SASS <br />
+•	Camunda <br />
+•	BPMN2 <br />
 •	Git <br />
 
 <hr />
