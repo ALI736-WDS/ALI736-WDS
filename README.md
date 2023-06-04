@@ -6,14 +6,18 @@ Hi there 👋
 • PHP <br />
 •	Javascript <br />
 •	React.js (hooks) <br />
+•	Context-API <br />
 •	Redux <br />
+•	ReduxThunk <br />
+•	ReduxToolkit <br />
 •	REST api <br />
-•	MaterialUI <br />
+•	GraphQL <br />
+•	MaterialUi <br />
 •	Bootstrap <br />
 •	SASS <br />
 •	Camunda <br />
 •	BPMN2 <br />
-•	Git <br />
+•	Git & GitHub <br />
 
 <hr />
 - 👋 Hi, I'm @ALI736-WDS <br />
