@@ -1,7 +1,7 @@
 Hi there 👋
 <p> (( Computer Engineering | Programmer | Web.Design )) </p>
 <hr />
-<p><b>Skills and Experience</b> <br /></p>
+<p><b> Skills and Experience </b> <br /></p>
 •	HTML&CSS <br />
 • PHP <br />
 •	Javascript <br />
@@ -15,6 +15,9 @@ Hi there 👋
 •	MaterialUi <br />
 •	Bootstrap <br />
 •	SASS <br />
+•	SharePoint <br />
+•	SharePoint Plus <br />
+•	PowerForm <br />
 •	Camunda <br />
 •	BPMN2 <br />
 •	Git & GitHub <br />
