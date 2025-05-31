@@ -6,6 +6,8 @@ Hi there 👋
 • PHP <br />
 •	Javascript <br />
 •	React.js (hooks) <br />
+•	Next.js <br />
+•	Node.js , Express.js <br />
 •	Context-API <br />
 •	Redux <br />
 •	ReduxThunk <br />
